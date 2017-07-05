@@ -64,7 +64,7 @@ class SearchResults  extends React.Component {
 
 		// remove any movies that are adult films
 		movies = movies.filter(function (movie) {
-			return movie.adult != true;
+			return movie.adult !== true;
 		});
 
 		for (let index in movies) {
