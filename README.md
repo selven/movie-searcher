@@ -1,3 +1,5 @@
+![Preview](https://i.imgur.com/fWPOUsx.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
